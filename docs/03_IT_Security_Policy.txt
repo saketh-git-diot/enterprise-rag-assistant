@@ -1,0 +1,19 @@
+IT SECURITY POLICY
+
+1. Passwords
+Employees must use strong passwords and must not share passwords with other people.
+
+2. Multi-Factor Authentication
+Multi-factor authentication must be enabled for systems that require it.
+
+3. Company Data
+Company confidential information must only be stored on approved company systems.
+
+4. Phishing
+Employees should report suspicious emails or messages to the IT Security team.
+
+5. Public Networks
+Employees should avoid accessing sensitive company systems through unsecured public networks.
+
+6. Incident Reporting
+Security incidents must be reported to the IT Security team as soon as possible.
